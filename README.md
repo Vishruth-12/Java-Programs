@@ -7,4 +7,4 @@ Java practice examples demonstrating objects, inheritance, and arrays.
 - `java/InheritanceDemo.java`
 - `java/ArrayAverage.java`
 
-Compile with `javac java/Student.java` from the project root (or run inside the `java` folder). Prepared on 2026-10-21.
+Compile with `javac java/Student.java` from the project root (or run inside the `java` folder). Prepared on 2026-10-19.
